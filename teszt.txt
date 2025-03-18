@@ -1,1 +1,6 @@
-ahsjfdskf
+	ahsjfdskf
+
+	^
+	I
+Ez egy rossz kód
+
